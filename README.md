@@ -59,7 +59,7 @@ Rock-Paper-Scissors/
 
 ## 📸 Screenshot
 
-(Add Game Screenshot Here)
+![image alt](https://github.com/parasmahajan78/Rock-Paper-Scesor/blob/f84ee1c0b2a7b2016d467de8d4ce60a37fc02956/Screenshot%202026-05-31%20101649.png)
 
 ## 👨‍💻 Author
 
